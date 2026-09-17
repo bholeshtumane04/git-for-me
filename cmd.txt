@@ -7,3 +7,12 @@ git commit -m"Added First File"
 git status
 cls
 doskey /history
+
+git add cmd.txt
+git commit -m"Added Cmdss"
+git status
+cls
+git remote add origin https://github.com/bholeshtumane04/git-for-me.git
+git remote -v
+git push origin master
+doskey /history
