@@ -1,0 +1,9 @@
+cls
+git init
+git status
+git add testing.py
+git status
+git commit -m"Added First File"
+git status
+cls
+doskey /history
